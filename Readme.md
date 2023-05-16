@@ -53,3 +53,16 @@ Word cloud de Udemy:
 
 ![](_src/udemy_wordcloud.png)
 
+## DashBoards
+
+Udemy:
+
+![](_src/db_udemy.png)
+
+Coursera:
+
+![](_src/db_coursera.png)
+
+Edx:
+
+![](_src/db_edx.png)
